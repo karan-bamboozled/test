@@ -59,3 +59,4 @@ Pruthvi84
 Pruthvi84 cli
 
 vidya-jv web
+vidya-jv cli
