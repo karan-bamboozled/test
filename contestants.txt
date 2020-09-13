@@ -57,3 +57,6 @@ shreyasgs10 web
 shreyasgs10 cli
 Pruthvi84
 Pruthvi84 cli
+
+vidya-jv web
+vidya-jv cli
